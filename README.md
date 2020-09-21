@@ -1,4 +1,4 @@
-# NBA Data Science Project
+# NBA - Data Science 
 
 ## Description
 As one of the most popular sports in the world, basketball offers entertainment and business opportunities. The NBA, arguably the top basketball league in the world, is watched by millions of people around the world. In order to satisfy fans and increase business growth, teams are constantly acquiring better players and coaches. Ultimately, every team has the same goal of making it to the finals and winning a championship. Knowing that 30 teams occupy the NBA, it is extremely challenging to reach the playoffs and all teams try to find an advantage through analytics.
